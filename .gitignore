@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+
+# Data & History
+*.csv
+data/history/
+
+# Matplotlib backend temp files
+.matplotlib/

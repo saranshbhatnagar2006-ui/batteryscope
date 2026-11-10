@@ -1,1 +1,1 @@
-# batteryscope
+# BatteryScope

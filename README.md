@@ -3,6 +3,6 @@
 BatteryScope is a Python CLI tool designed for Linux to monitor laptop battery telemetry and process resource usage.
 
 ## Features
-- Live Telemetry
+- Live Telemetry & Tracking
 - Process Energy Attribution
 - Visual Dashboards
